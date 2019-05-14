@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Most Popular Articles App</string>
+    <string name="main_title">Most Popular Articles</string>
+    <string name="main_date">Last updated:</string>
+
+    <string name="main_degree_centigrade">°C</string>
+    <string name="main_degree_fahrenheit">°F</string>
+    <string name="main_degree_separator">|</string>
+
+    <string name="main_reload">Reload</string>
+    <string name="main_published_on">Published On:</string>
+
+
+    <string name="api_key">VWfYpWIq0GHznyTaJrA0Blk1YDjoGC2Y</string>
+    <string name="api_secret">uWhDmwYK57KTpufU</string>
+</resources>
