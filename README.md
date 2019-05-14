@@ -30,3 +30,9 @@ Following main components are utilized for the application.
 
 Please make sure you have Android Studio with updated Android SDK. Please use download link from the repo and open as existing project. Once the project is opened let gradle sync required integrations. After successful sync you will be able to build the application successfully.
 
+## Screenshots
+
+![Screenshot_1557818885](https://user-images.githubusercontent.com/50582820/57679095-936c3100-763b-11e9-8b4f-fc34e4691009.png)
+
+
+![Screenshot_1557818911](https://user-images.githubusercontent.com/50582820/57679188-bbf42b00-763b-11e9-9547-c33897d07dbc.png)
